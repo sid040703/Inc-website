@@ -38,7 +38,7 @@ function EventDetails(props) {
         },
       ],
       registrations: {
-        fees: "Will be out Soon",
+        fees: "₹ 100/- For National Entries",
         team_size: 5,
       },
       prizes: `InC announces a total cash prize of ₹6 Lakhs. `,
@@ -97,7 +97,7 @@ function EventDetails(props) {
         },
       ],
       registrations: {
-        fees: "Will be out Soon",
+        fees: "₹ 300/- For National Entries",
         team_size: 5,
       },
       prizes: "InC announces a total cash prize of ₹6 Lakhs.",
@@ -160,7 +160,7 @@ function EventDetails(props) {
         },
       ],
       registrations: {
-        fees: "Will be out Soon",
+        fees: "₹ 100/- For National Entries",
         team_size: 2,
       },
       rules: [
@@ -210,7 +210,7 @@ function EventDetails(props) {
                   <span className="text-gray-200 font-thin">Fees: </span>
                   <span>{eventDetail.registrations.fees}</span>
                   <br />
-                  <p>Free for PICT and International Students</p>
+                  {/* <p>Free for PICT and International Students</p> */}
                 </div>
                 <div className="flex space-x-2">
                   <div className="text-gray-200 font-thin">Team Size: </div>

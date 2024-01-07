@@ -32,7 +32,7 @@ function Footer() {
 
         <div className="sm:flex sm:items-center sm:justify-between lg:px-52">
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
-            ©PICT InC 2023 All Rights Reserved | Developed by WEB TEAM of InC
+            ©PICT InC 2024 All Rights Reserved | Developed by WEB TEAM of InC
           </span>
 
           <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">

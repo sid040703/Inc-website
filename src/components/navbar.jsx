@@ -28,9 +28,9 @@ function Navbar() {
 
   return (
     <>
-      <div className="z-999 w-full bg-[#000] text-center p-4">
+      {/* <div className="z-999 w-full bg-[#000] text-center p-4">
         <span className="text-gold font-bold text-xl">Notice: </span><Link to='/allocations/labs' className="underline decoration-dotted decoration-gold underline-offset-4 text-2xl">Click Here for Lab Allocations</Link>
-      </div>
+      </div> */}
       <nav className="navbar sticky w-full ">
         <div className="shadow-lg shadow-light_blue/20  w-full  border border-light_blue/50 bg-light_blue/30 backdrop-blur">
           <div className="max-w-full mx-auto px-4 py-2 text-white">
@@ -120,7 +120,7 @@ function Navbar() {
                   <option>Impetus</option>
                   <option>Concepts</option>
                   <option>Pradnya</option>
-                  <option>Winners</option>
+                  {/* <option>Winners</option> */}
                   
                 </select>
               </div>

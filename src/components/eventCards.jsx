@@ -13,8 +13,8 @@ const eventData = [
     prize: 1000,
     ct: "First ,second and third year students",
     logo: impetus_logo,
-    // nt: "₹ 100/- For National Entries",
-    nt: "Will be displayed Soon...",
+    nt: "₹ 100/- For National Entries",
+    //nt: "Will be displayed Soon...",
     it: "Free for International Entries",
     contact: [{
       name: "Apoorvaraj",
@@ -45,8 +45,8 @@ const eventData = [
     ct: "Final year students only.    ",
     logo: concepts_logo,
 
-    // nt: "₹ 300/- For National Entries",
-    nt: "Will be displayed Soon...",
+     nt: "₹ 300/- For National Entries",
+    //nt: "Will be displayed Soon...",
     it: "Free for International Entries",
     contact: [{
       name: "Siddharth",
@@ -76,8 +76,8 @@ const eventData = [
     prize: 1000,
     ct: "First, second, third and forth year students",
     logo: pradnya_logo,
-    // nt: "₹ 100/- For National Entries",
-    nt: "Will be displayed Soon...",
+    nt: "₹ 100/- For National Entries",
+    //nt: "Will be displayed Soon...",
     it: "Free for International Entries",
     contact: [{
       name: "Pratik",
