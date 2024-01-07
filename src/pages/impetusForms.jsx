@@ -14,7 +14,7 @@ function ImpetusForms() {
             <div className='flex justify-end'>
                 <Buttons value="i" onClick={toggleInstructionsModal} classNames="rounded-full mr-24 my-5" />
             </div>
-            <Modals modalState={showModal} toggleModal={toggleInstructionsModal}  >
+            <Modals modalState={showModal} toggleModal={toggleInstructionsModal}>
                 <>
                     <div className="flex justify-center items-center overflow-x-hidden text-black overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">
                         <div className="relative w-auto my-6 mx-auto max-w-3xl">
