@@ -27,7 +27,7 @@ function App() {
         <Route path='/payment/:id' element={<Payment />} />
         <Route path='/admin/*' element={<ProtectedRoutes children={<Admin />} />} />
         <Route path='/judge/*' element={<ProtectedRoutes children={<Judge />} />} />
-        <Route path= '/Winners' element={<winners_inc23 />} />
+        <Route path= '/winners' element={<winners_inc23 />} />
         <Route path='/inc-teams' element={<InCTeams />} />
         <Route path='/web-teams' element={<WebTeam />} />
         <Route path='/faculty-teams' element={<FacultyTeam />} />
