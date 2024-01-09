@@ -24,7 +24,7 @@ function Footer() {
 
           <div className="Email lg:mt-8">
             <h1 className="mb-2 text-2xl text-white uppercase">EMAIL</h1>
-            <p className="text-md text-white">inc@pict.edu</p>
+            <p className="text-md text-white">pictinc2024@gmail.com</p>
           </div>
         </div>
 
