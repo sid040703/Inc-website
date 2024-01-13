@@ -39,7 +39,7 @@ function EventDetails(props) {
       ],
       registrations: {
         fees: "₹ 100/- For National Entries",
-        team_size: 5,
+        team_size: max 5,
       },
       prizes: `InC announces a total cash prize of ₹6 Lakhs. `,
       rules: [
