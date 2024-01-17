@@ -161,7 +161,7 @@ function EventDetails(props) {
       ],
       registrations: {
         fees: "₹ 100/- For National Entries",
-        team_size: 2,
+        team_size: max 2,
       },
       rules: [
         "All students whose colleges are located within the Pune district are required to attend this round in person at the PICT Campus. For students residing outside of the Pune district, there is an option to take the round in hybrid mode.",
